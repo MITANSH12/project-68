@@ -1,6 +1,12 @@
 body {
 text-align: center;
 }
-nav {
-position: fixed;
+#contact_marquee {
+margin-left:30px;    
+}
+#cricket img{
+width:40%;   
+}
+#tennis img{
+width:40%;   
 }
