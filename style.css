@@ -1,12 +1,6 @@
 body {
 text-align: center;
 }
-#contact_marquee {
-margin-left:30px;    
-}
-#cricket img{
-width:40%;   
-}
-#tennis img{
-width:40%;   
+#contact marquee{
+margin-left:30px;   
 }
